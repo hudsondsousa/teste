@@ -1,0 +1,6 @@
+Ligue o primeiro interruptor e espere alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Entre na sala:
+Se houver uma lâmpada acesa, é a primeira.
+Se houver uma lâmpada apagada e estiver quente, é a segunda.
+Se houver uma lâmpada apagada e estiver frio, é a terceira.
